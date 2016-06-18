@@ -1,0 +1,32 @@
+{ "results":
+    
+    [
+     {"hexColor":"c93f00", "characterImageString":"Hindi",
+     
+     "movies":
+     
+     [{"name": "Hindi Movie One", "imageString" : "hindiPic"}, {"name": "Hindi Movie Two", "imageString" : "hindiPic"}, {"name": "Hindi Movie Three", "imageString" : "hindiPic"}]
+     },
+     
+     {"hexColor":"1f9b00", "characterImageString":"Telugu",
+     
+     "movies":
+     
+     [{"name": "Telugu Movie One", "imageString" : "TeluguPic"}, {"name": "Telugu Movie Two", "imageString" : "TeluguPic"}, {"name": "Telugu Movie Three", "imageString" : "TeluguPic"}]
+     },
+     
+     {"hexColor":"1a0084", "characterImageString":"tamil",
+     
+     "movies":
+     
+     [{"name": "Tamil Movie One", "imageString" : "tamilPic"}, {"name": "Tamil Movie Two", "imageString" : "tamilPic"}, {"name": "Tamil Movie Three", "imageString" : "tamilPic"}]
+     },
+     
+     {"hexColor":"dce000", "characterImageString":"malayalam", "movies": [{"name": "Malayalam Movie One", "imageString" : "malayalamPic"}, {"name": "Malayalam Movie Two", "imageString" : "malayalamPic"}, {"name": "Malayam Movie Three", "imageString" : "malayalamPic"}]
+     },
+     
+     {"hexColor":"960057", "characterImageString":"kanada",
+     
+     "movies":
+     
+     [{"name": "Kanada Movie One", "imageString" : "kanadaPic"}, {"name": "Kanada Movie Two", "imageString" : "kanadaPic"}, {"name": "Kanada Movie Three", "imageString" : "kanadaPic"}]} ]}
